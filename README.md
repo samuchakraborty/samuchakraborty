@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" width="600px" alt="samuchakraborty | Coding Activity" src="https://wakatime.com/share/@8b6e1d8b-6289-4fd9-b140-8478e0a2b790/ba954798-8ce0-4ed0-a582-d780ddac8c1f.svg" />
+
+
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
