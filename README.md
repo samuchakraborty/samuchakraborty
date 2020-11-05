@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/samuchakraborty/count.svg" alt ="Loading">
