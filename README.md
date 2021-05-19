@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**samuchakraborty/samuchakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **samuchakraborty/samuchakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+##I'm a Backend & Flutter Dev!
 
 - 🔭 I’m currently working on ... Flutter
 - 🌱 I’m currently learning ... Nodejs
