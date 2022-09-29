@@ -5,8 +5,8 @@
 
 ## I'm a Backend & Flutter Dev!
 
-- 🔭 I’m currently working on ... Flutter
-- 🌱 I’m currently learning ... Spring Boot
+- 🔭 I’m currently working on ... Flutter, nodejs, golang
+- 🌱 I’m currently learning ... Golang
 - 👯 I’m looking to collaborate on ... open source project in flutter
 - ⚡ Fun fact: ... I love to watch Movies, travel to mountains and beaches and play chess. 
 
